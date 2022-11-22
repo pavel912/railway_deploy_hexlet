@@ -3,3 +3,6 @@ test:
 
 start:
 	gradle run
+
+stage:
+	gradle stage
